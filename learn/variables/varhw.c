@@ -20,4 +20,7 @@ int main() {
     printf("A symbol is %c\n", symbol);
     printf("Your name is: %s\n", name);
     printf("You are a student %b\n: ", isStudent);
+
+    return 0;
+
 }
