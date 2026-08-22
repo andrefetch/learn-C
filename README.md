@@ -15,3 +15,4 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
+- [Madlibs](projects/madlibs/readme.md) - Madlibs Game
