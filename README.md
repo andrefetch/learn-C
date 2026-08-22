@@ -8,7 +8,7 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 
 ### Learning Practice 
 
-- [Variables](learn/variables/readme.md) - C data types and their sizes
+- [Variables](learn/variables/readme.md) - C data types and their sizess
 - [Format Specifiers](learn/format-specifiers/readme.md) - C formatting specifiers.
 - [Basic Arithmetic](learn/arithmetic/readme.md) - Basic arithmetic operators in C
 - [User Input](learn/user-input/readme.md) - User input in C, including w/ whitespace
