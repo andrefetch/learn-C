@@ -12,6 +12,7 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 - [Format Specifiers](learn/format-specifiers/readme.md) - C formatting specifiers.
 - [Basic Arithmetic](learn/arithmetic/readme.md) - Basic arithmetic operators in C
 - [User Input](learn/user-input/readme.md) - User input in C, including w/ whitespace
+- [Math Functions](learn/math-functions/readme.md) - Math Functions in C
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
