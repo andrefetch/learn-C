@@ -21,6 +21,7 @@ Currently at: 2:02:30 out of 7 Hours
 - [Switch Statements](learn/switch/readme.md) - Switch Statements in C
 - [Nested If Statements](learn/nested-if-statements/readme.md) - Nested If statements
 - [Logical Operators](learn/logical-operators/readme.md) - Logical Operators 
+- [Functions](learn/functions/readme.md) - Functions in C
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
