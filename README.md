@@ -18,4 +18,4 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
 - [Madlibs](projects/madlibs/readme.md) - Madlibs Game
 - [Circle Calulator](projects/circle-calculator/readme.md) - Basic Circle Calculator utilzing math.h functions
-  - [Compound Interest Calculator](projects/compound-interest/readme.md) - Compound Interest Calculator written in C (duh)
+- [Compound Interest Calculator](projects/compound-interest/readme.md) - Compound Interest Calculator written in C (duh)
