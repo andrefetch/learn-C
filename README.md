@@ -4,6 +4,8 @@ In this repo, I will be updating it with C content as I am trying to learn more 
 
 Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.com/watch?v=xND0t1pr3KY)
 
+Currently at: 2:02:30 out of 7 Hours
+
 ## Notes
 
 ### Learning Practice 
