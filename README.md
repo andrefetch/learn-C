@@ -1,6 +1,6 @@
 # Learning C 
 
-In this repo, I will be updating it with C content as I am trying to learn more about C before my bash/C classes at Uni.
+In this repo, I will be updating it with C content as I am trying to learn more about C before my bash/C classes at Uni. Also will be used as a little notebook if I want to refer to anything back when doing larger projects in this language.
 
 Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.com/watch?v=xND0t1pr3KY)
 
