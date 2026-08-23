@@ -3,6 +3,7 @@
 In this repo, I will be updating it with C content as I am trying to learn more about C before my bash/C classes at Uni.
 
 Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.com/watch?v=xND0t1pr3KY)
+Also Learning C @ [Boot.dev (Learn Memory Management)](https://www.boot.dev/courses/learn-memory-management-c)
 
 Currently at: 2:02:30 out of 7 Hours
 
