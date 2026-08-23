@@ -16,6 +16,7 @@ Currently at: 2:02:30 out of 7 Hours
 - [User Input](learn/user-input/readme.md) - User input in C, including w/ whitespace
 - [Math Functions](learn/math-functions/readme.md) - Math Functions in C
 - [If Statements](learn/if-statements/readme.md) - If Statements in C
+- [Switch Statements](learn/switch/readme.md) - Switch Statements in C
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
