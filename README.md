@@ -23,3 +23,4 @@ Currently at: 2:02:30 out of 7 Hours
 - [Circle Calulator](projects/circle-calculator/readme.md) - Basic Circle Calculator utilzing math.h functions
 - [Compound Interest Calculator](projects/compound-interest/readme.md) - Compound Interest Calculator written in C (duh)
 - [Weight Converter](projects/weight-converter/readme.md) - Weight Converter Program (kilo to lbs and vise versa)
+- [Temperature Converter](projects/temperature-converter/readme.md) - Basic Temperature Converter
