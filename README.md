@@ -20,3 +20,4 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 - [Madlibs](projects/madlibs/readme.md) - Madlibs Game
 - [Circle Calulator](projects/circle-calculator/readme.md) - Basic Circle Calculator utilzing math.h functions
 - [Compound Interest Calculator](projects/compound-interest/readme.md) - Compound Interest Calculator written in C (duh)
+- [Weight Converter](projects/weight-converter/readme.md) - Weight Converter Program (kilo to lbs and vise versa)
