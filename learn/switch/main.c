@@ -35,4 +35,6 @@ int main() {
             printf("Please only enter a number (1-7)");
     }
 
+    return 0;
+
 }
