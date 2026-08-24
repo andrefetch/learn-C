@@ -29,6 +29,7 @@ Currently at: 3:21:54 out of 7 Hours
 - [For Loops](learn/for-loops/readme.md) - For loops and counter controlled repetition
 - [Break & Continue](learn/break-continue/readme.md) - Breaks and Continue
 - [Nested Loops](learn/nested-loops/readme.md) - Loops inside loops for grids and patterns
+- [Random Numbers](learn/random-numbers/readme.md) - Pseudo-random numbers with rand() and srand()
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
