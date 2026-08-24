@@ -26,6 +26,7 @@ Currently at: 3:21:54 out of 7 Hours
 - [Variable Scopes](learn/scopes/readme.md) - Variable scopes (LEGB) and why globals are bad
 - [Function Prototypes](learn/function-prototype/readme.md) - Declaring functions before main
 - [While Loops](learn/while-loops/readme.md) - While loops, do while, and flag controlled loops
+- [For Loops](learn/for-loops/readme.md) - For loops and counter controlled repetition
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
