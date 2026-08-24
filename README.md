@@ -39,3 +39,4 @@ Currently at: 3:21:54 out of 7 Hours
 - [Weight Converter](projects/weight-converter/readme.md) - Weight Converter Program (kilo to lbs and vise versa)
 - [Temperature Converter](projects/temperature-converter/readme.md) - Basic Temperature Converter
 - [Calculator](projects/calculator/readme.md) - Basic Calculator
+- [Number Guessing Game](projects/number-guessing-game/readme.md) - Number Guessing Game in C
