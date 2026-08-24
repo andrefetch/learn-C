@@ -25,6 +25,7 @@ Currently at: 3:10:26 out of 7 Hours
 - [Returns](learn/return/readme.md) - Returns in C
 - [Variable Scopes](learn/scopes/readme.md) - Variable scopes (LEGB) and why globals are bad
 - [Function Prototypes](learn/function-prototype/readme.md) - Declaring functions before main
+- [While Loops](learn/while-loops/readme.md) - While loops, do while, and flag controlled loops
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
