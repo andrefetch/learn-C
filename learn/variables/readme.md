@@ -9,3 +9,7 @@
 `char[]` array of characters (size can vary)
 
 `bool` true or false (1 byte in size)
+
+### Code
+- [main.c](main.c)
+- [varhw.c](varhw.c)

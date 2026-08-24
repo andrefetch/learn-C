@@ -9,3 +9,6 @@ Honestly, love functions as an idea (from making a lot of tasks in python easier
 }```
 
 when it takes params, you also have to infer the type.
+
+### Code
+- [main.c](main.c)

@@ -11,3 +11,6 @@ int randomNum = (rand() % (max - min + 1)) + min;
 `% (max - min + 1)` gets a number the size of the range, `+ min` shifts it to start at your minimum.
 
 Only call `srand()` once at the start, reseeding before every `rand()` gives you the same number over and over.
+
+### Code
+- [main.c](main.c)

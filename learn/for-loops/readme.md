@@ -15,3 +15,6 @@ The counter is declared inside the loop, so it only exists there. Counting up (`
 Use a `for` loop when you know how many times you want to repeat, and a `while` loop when you only know the condition to stop on.
 
 `sleep(1)` from `<unistd.h>` pauses for a second each pass, which turns the countdown into an actual countdown.
+
+### Code
+- [main.c](main.c)

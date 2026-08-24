@@ -18,3 +18,6 @@
 
 ### All together
 %7.2f\n -> 7 places over, 2 decimals after the first num, floating type
+
+### Code
+- [main.c](main.c)

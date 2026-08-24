@@ -5,3 +5,6 @@ A simple guessing game where the program picks a random number between 1 and 100
 
 ### What I've Learned
 I practiced generating random numbers with `rand()` and seeding it using `srand(time(NULL))` so the answer changes every run. I also used a `do while` loop to keep asking for guesses until the answer is correct, combined with if/else if chains for the hints.
+
+### Code
+- [main.c](main.c)

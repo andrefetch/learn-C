@@ -7,3 +7,6 @@ void hello(char name[], int age); // prototype, ends with a ;
 ```
 
 Considered good practice to always write them, keeps `main` at the top where it's easy to find and stops the compiler complaining about implicit declarations.
+
+### Code
+- [main.c](main.c)
