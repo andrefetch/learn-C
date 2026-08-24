@@ -41,3 +41,4 @@ Currently at: 3:21:54 out of 7 Hours
 - [Calculator](projects/calculator/readme.md) - Basic Calculator
 - [Number Guessing Game](projects/number-guessing-game/readme.md) - Number Guessing Game in C
 - [Rock Paper Scissors](projects/rock-paper-scissors/readme.md) - Rock Paper Scissors Game in C
+- [Banking Program](projects/banking-program/readme.md) - Banking Program with a menu, deposits, and withdrawals
