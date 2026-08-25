@@ -34,6 +34,7 @@ Currently at: **4:32:15** out of **6:53:34**
 - [Arrays & User Input](learn/arrays-and-userinput/readme.md) - Arrays & User Input
 - [2D Arrays](learn/2d-arrays/readme.md) - 2D arrays and how to iterate over them
 - [Arrays of Strings](learn/arrays-of-strings) - Arrays of strings, sizeof approximation for 2d arrays
+- [Ternary Operator](learn/ternary-operator/readme.md) - Ternary operator as shorthand for if else
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
