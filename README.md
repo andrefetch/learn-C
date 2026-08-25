@@ -46,3 +46,4 @@ Currently at: **4:32:15** out of **6:53:34**
 - [Number Guessing Game](projects/number-guessing-game/readme.md) - Number Guessing Game in C
 - [Rock Paper Scissors](projects/rock-paper-scissors/readme.md) - Rock Paper Scissors Game in C
 - [Banking Program](projects/banking-program/readme.md) - Banking Program with a menu, deposits, and withdrawals
+- [Quiz Game](projects/quiz-game/readme.md) - Multiple choice quiz game in C
