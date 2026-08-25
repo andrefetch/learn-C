@@ -12,8 +12,11 @@ int main() {
         {'*', '0', '#'}
     };
 
-    for(int i = 0; i < 4; i++){ // in charge of the rows
-        for(int j = 0; j < 3; j++){ // columns
+    int sizeNumpadFirst = sizeof(numpad) / sizeof(numpad[0]);
+    int sizeNumpadSecond = sizeof(numpad[0]) / sizeof(numpad[0][0]);
+
+    for(int i = 0; i < sizeNumpadFirst; i++){ // in charge of the rows
+        for(int j = 0; j < sizeNumpadSecond; j++){ // columns
             printf("%c ", numpad[i][j]);
         }
         printf("\n");
