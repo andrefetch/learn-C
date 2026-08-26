@@ -6,7 +6,7 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 
 Also Learning C @ [Boot.dev (Learn Memory Management)](https://www.boot.dev/courses/learn-memory-management-c)
 
-Currently at: **5:48:04** out of **6:53:34**
+Currently at: **DONE VIDEO!**
 
 ## Notes
 
@@ -58,3 +58,4 @@ Currently at: **5:48:04** out of **6:53:34**
 - [Rock Paper Scissors](projects/rock-paper-scissors/readme.md) - Rock Paper Scissors Game in C
 - [Banking Program](projects/banking-program/readme.md) - Banking Program with a menu, deposits, and withdrawals
 - [Quiz Game](projects/quiz-game/readme.md) - Multiple choice quiz game in C
+- [Digital Clock](projects/digital-clock/readme.md) - Digital clock that updates every second using time.h
