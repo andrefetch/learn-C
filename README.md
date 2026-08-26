@@ -43,6 +43,7 @@ Currently at: **5:48:04** out of **6:53:34**
 - [Write Files](learn/write-files/readme.md) - Writing to a file with fopen, fprintf, and fclose
 - [Read Files](learn/read-files/readme.md) - Reading a file line by line with fopen and fgets
 - [malloc](learn/malloc/readme.md) - Allocating memory at runtime with malloc and free
+- [calloc](learn/calloc/readme.md) - Allocating memory but zeroes every byte
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
