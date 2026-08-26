@@ -6,7 +6,7 @@ Following Along Here: [Bro Code C Programming Full Course](https://www.youtube.c
 
 Also Learning C @ [Boot.dev (Learn Memory Management)](https://www.boot.dev/courses/learn-memory-management-c)
 
-Currently at: **4:32:15** out of **6:53:34**
+Currently at: **5:48:04** out of **6:53:34**
 
 ## Notes
 
