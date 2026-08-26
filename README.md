@@ -40,6 +40,7 @@ Currently at: **5:48:04** out of **6:53:34**
 - [Structs](learn/structs/readme.md) - Grouping different datatypes into one custom type
 - [Arrays of Structs](learn/arrays-of-structs/readme.md) - Arrays where each element is a struct
 - [Pointers](learn/pointers/readme.md) - Storing memory addresses and passing by reference
+- [Write Files](learn/write-files/readme.md) - Writing to a file with fopen, fprintf, and fclose
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
