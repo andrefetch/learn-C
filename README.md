@@ -37,6 +37,7 @@ Currently at: **4:32:15** out of **6:53:34**
 - [Ternary Operator](learn/ternary-operator/readme.md) - Ternary operator as shorthand for if else
 - [Typedef](learn/typedef/readme.md) - Giving existing datatypes a nickname
 - [Enums](learn/enums/readme.md) - Named integer constants and typedef enums
+- [Structs](learn/structs/readme.md) - Grouping different datatypes into one custom type
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
