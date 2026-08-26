@@ -38,6 +38,7 @@ Currently at: **5:48:04** out of **6:53:34**
 - [Typedef](learn/typedef/readme.md) - Giving existing datatypes a nickname
 - [Enums](learn/enums/readme.md) - Named integer constants and typedef enums
 - [Structs](learn/structs/readme.md) - Grouping different datatypes into one custom type
+- [Arrays of Structs](learn/arrays-of-structs/readme.md) - Arrays where each element is a struct
 
 ### Projects
 - [Shopping Cart](projects/shopping-cart/readme.md) - Basic shopping cart program
