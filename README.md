@@ -8,8 +8,6 @@ Also Learning C @ [Boot.dev (Learn Memory Management)](https://www.boot.dev/cour
 
 Currently at: **DONE VIDEO!**
 
-## Notes
-
 ### Learning Practice 
 
 - [Variables](learn/variables/readme.md) - C data types and their sizess
